@@ -10,6 +10,8 @@ Key topics covered:
 - Try-Catch-Finally: Understand structured error handling in Java.
 - Exception Chaining: Explore how exceptions can be linked to provide better debugging information.
 
+---
+
 ## 🗂️ Project Structure
 The project is organized for easy learning and experimentation:
 
